@@ -6,6 +6,9 @@
 
 <br>
 
-<img src="jdg-logo.png" width="80" alt="JDG" />
+<table align="center"><tr>
+<td align="center"><img src="jdg-logo.png" width="80" alt="JDG" /></td>
+<td align="center"><img src="jdg-2025.jpg" width="80" alt="" /></td>
+</tr></table>
 
 </div>
