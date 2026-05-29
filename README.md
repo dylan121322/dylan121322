@@ -1,14 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=cellabsorb&fontSize=75&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=creative%20%2F%20smart%20practitioner&descSize=18&descColor=a8a8a8&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f2e,50:1a3a6e,100:2563eb&height=220&section=header&text=cellabsorb&fontSize=75&fontColor=60a5fa&animation=fadeIn&fontAlignY=38&desc=creative%20%2F%20smart%20practitioner&descSize=18&descColor=93c5fd&descAlignY=55" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%E5%9D%9A%E5%AE%9A%E6%89%80%E4%BF%A1%EF%BC%8C%E4%BA%AC%E5%88%83%E7%A0%B4%E6%99%93" alt="Typing SVG" /></a>
-
-<br>
-
-<table width="100%"><tr>
-<td align="left"><img src="jdg-logo.png" width="120" alt="JDG" /></td>
-<td align="right"><img src="jdg-2025.jpg" width="120" alt="" /></td>
-</tr></table>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=60a5fa&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%E5%BF%83%E5%9C%A8%E5%AF%B0%E5%AE%87%EF%BC%8C%E8%87%AA%E5%BE%97%E8%87%AA%E5%9C%A8%E3%80%82" alt="Typing SVG" /></a>
 
 </div>
