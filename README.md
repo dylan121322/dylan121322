@@ -6,9 +6,9 @@
 
 <br>
 
-<table align="center"><tr>
-<td align="center"><img src="jdg-logo.png" width="80" alt="JDG" /></td>
-<td align="center"><img src="jdg-2025.jpg" width="80" alt="" /></td>
+<table width="100%"><tr>
+<td align="left"><img src="jdg-logo.png" width="120" alt="JDG" /></td>
+<td align="right"><img src="jdg-2025.jpg" width="120" alt="" /></td>
 </tr></table>
 
 </div>
